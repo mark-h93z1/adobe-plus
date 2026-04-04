@@ -1,0 +1,13 @@
+# adobe-plus configuion
+
+target:
+ path: "C:/Program Files/Target"
+ version: "latest"
+
+update:
+ backup: true
+ verify: true
+
+tool:
+ : auto
+ offline: false
