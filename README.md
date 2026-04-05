@@ -4,7 +4,7 @@
 
 ![License](https://img.shields.io/github/license/mark-h93z1/adobe-plus) ![Stable](https://img.shields.io/badge/status-stable-brightgreen.svg)
 
-[![tool](https://img.shields.io/badge/tool-MIT-green?style=flat-square) ![Version](https://img.shields.io/badge/Version-1.2.1-blue?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=flat-square) ![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white) ![Stars](https://img.shields.io/github/stars/mark-h93z1/adobe-plus?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/mark-h93z1/adobe-plus?style=flat-square)
+[![tool](https://img.shields.io/badge/tool-MIT-green?style=flat-square) ![Version](https://img.shields.io/badge/Version-1.2.2-blue?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=flat-square) ![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white) ![Stars](https://img.shields.io/github/stars/mark-h93z1/adobe-plus?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/mark-h93z1/adobe-plus?style=flat-square)
 
 Windows Adobe config tool with profile mgmt
 
